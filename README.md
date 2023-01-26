@@ -11,7 +11,7 @@ Pour cela, j'ai divisé mon travail en plusieurs tâches.
 
 - J'ai réalisé en premier lieu une maquette des interfaces graphique. 
 - Puis les interfaces.
-- Ensuite je les ai programmer.
+- Ensuite je les ais programmer.
 - Puis je tester.
 
 Il est vrai que j'ai eu quelques problème mineur règler, c'est le but du jeu.
