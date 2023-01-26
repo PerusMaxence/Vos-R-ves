@@ -7,4 +7,13 @@ Les imprimantes sont actuellement vieillissantes, elle sont très sollicitées e
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Pour cela, nous avons créer 
+Pour cela, j'ai divisé mon travail en plusieurs tâches.
+
+- J'ai réalisé en premier lieu une maquette des interfaces graphique. 
+- Puis les interfaces.
+- Ensuite je les ai programmer.
+- Puis je tester.
+
+Il est vrai que j'ai eu quelques problème mineur règler, c'est le but du jeu.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
